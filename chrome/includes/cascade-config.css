@@ -89,6 +89,7 @@
 /* Disable the Navigation Buttons */
 #back-button,
 #forward-button { display: none !important; }
+#star-button-box { display: none !important; }
 
 /* Disables the Tracking Protection Shield */
 /* #tracking-protection-icon-container { display: none !important; } */
